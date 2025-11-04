@@ -1,3 +1,4 @@
 This can only be used with an AWS API key.
 Mechanism can be implemented in other games that require one physical action such as Geometry Dash.
-Requirements are: opencv-python and boto3
+Requirements are: opencv-python and boto3.
+The code for Flappy bird is from the original creator's open source code online.
